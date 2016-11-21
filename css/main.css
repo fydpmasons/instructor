@@ -1,0 +1,11 @@
+.bg-washed-blue {
+  background-color: #F3F6F7;
+}
+
+.b--light-blue{
+  border-color: rgba(22, 168,226, 0.4);
+}
+
+hr {
+  margin: 0 -(var(--pa3));
+}
